@@ -51,5 +51,5 @@ Tabel that retrieves the data from your database. And with a well functional sea
 
 ## Author 
 
-Prashant Dhiman
+Rishi Gupta MIT Liscence
 
